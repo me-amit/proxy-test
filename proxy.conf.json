@@ -1,0 +1,7 @@
+{
+    "/api": {
+      "target": "http://yourdomain/project",
+      "secure": true,
+      "changeOrigin": true
+    }
+  }
